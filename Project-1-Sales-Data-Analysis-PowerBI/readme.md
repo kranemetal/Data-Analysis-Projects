@@ -1,3 +1,5 @@
+<b> Sales Data Analysis using Power BI </b><br>
+
 1. In this project the Source data is obtained from a MySQL Database provided by 'codebasics' Power BI tutorial. The Database dump can be created by running the script in file 'create_db.sql' directly in MySQL workbench.<br>
 2. After the database is created in MySQL workbench, initial analysis was done in MySQL and later loaded the data onto Power BI Desktop.<br>
 3. Data Cleaning, Data Modelling, Data Visualization and finally drawing of the Insights has been done in Power BI Desktop.<br>
