@@ -77,3 +77,31 @@ FROM prices
 WHERE ticker = 'BTC'
 AND high >30000;
 
+![image](https://user-images.githubusercontent.com/70786229/149555593-c3059365-87df-44df-bf8e-e49786b409ab.png)
+
+### Question 9
+### How many "breakout" days were there in 2020 where the price column is greater than the open column for each ticker?
+SELECT ticker,
+COUNT(*)
+FROM prices
+WHERE market_date BETWEEN ('2020-01-01') and ('2020-12-31')
+AND price > open
+GROUP BY ticker;
+
+![image](https://user-images.githubusercontent.com/70786229/149556245-26c18f03-24ff-4f21-b295-8163f86a4cb1.png)
+
+### Question 10
+### How many "non_breakout" days were there in 2020 where the price column is less than the open column for each ticker?
+SELECT ticker,
+COUNT(*) AS non_breakout_days
+FROM prices
+WHERE market_date BETWEEN ('2020-01-01') and ('2020-12-31')
+AND price < open
+GROUP BY ticker;
+
+![image](https://user-images.githubusercontent.com/70786229/149556513-d109b8b1-2842-4dbd-a065-e886d198f292.png)
+
+### Question 11
+### What percentage of days in 2020 were breakout days vs non-breakout days? Round the percentages to 2 decimal places
+-- Working on solution
+
