@@ -1,5 +1,8 @@
 # Tableau Mini Projects - Simplilearn <br>
 This project has 3 mini project dashboards viz. <br><b> 1) Covid-19 <br> 2) Airlines Data <br> 3) Space Mission <br></b>
+
+The project guidance is available at: https://www.youtube.com/watch?v=5uzB4z4iN0g <br>
+
 ### 1) Covid-19 Project
   a) Covid Dashboard International
   
