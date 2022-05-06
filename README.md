@@ -8,3 +8,4 @@ This repository contains all the Data Analysis Projects. Each project has its fi
 [4. Tableau mini projects - Simplilearn](https://github.com/kranemetal/Data-Analysis-Projects/tree/main/Project-4-Tableau-mini-projects-simplilearn) <br>
 [5. Employee Dashboard MySQL-Tableau](https://github.com/kranemetal/Data-Analysis-Projects/tree/main/Project-5-MySQL-Tableau-Employee-Dashboard) <br>
 [6. Customer Sales Analysis Dashboard-Tableau](https://github.com/kranemetal/Data-Analysis-Projects/tree/main/Project-6-Tableau-Customer-Analysis) <br>
+[7. Show Ratings Viz-Tableau](https://github.com/kranemetal/Data-Analysis-Projects/tree/main/7.%20Show%20Ratings%20Viz) <br>
